@@ -31,6 +31,6 @@ setup(
     classifiers=classifiers,
     url='http://github.com/tanghaibao/goatools',
     description="Python scripts to find enrichment of GO terms",
-    long_description=open(os.path.join(setup_dir, "README.md")).read(),
+    #long_description=open(os.path.join(setup_dir, "README.md")).read(),
     install_requires=requirements
     )
